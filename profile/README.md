@@ -1,4 +1,4 @@
-<img src="logo.png" alt="logo" width="300"/>
+<img src="https://raw.githubusercontent.com/lisa-analyzer/lisa/master/logo.png" alt="logo" width="300"/>
 
 ---
 
