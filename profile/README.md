@@ -11,3 +11,5 @@ the control flow graph representation of LiSA. Then, simple checks iterating ove
 semantic information into warnings that can be of value for the final user. 
 
 For more information, documentation and useful guides, refer to the [project website](https://lisa-analyzer.github.io/)!
+
+LiSA started as a project of the [Software and System Verification (SSV)](https://ssv.dais.unive.it/) group @ Università Ca' Foscari in Venice, Italy, and is now maintained and developed in collaboration with the University of Parma.
